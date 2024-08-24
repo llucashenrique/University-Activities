@@ -1,4 +1,4 @@
-package secondsemester.exercises08;
+package secondsemester;
 
 import java.util.Scanner;
 
