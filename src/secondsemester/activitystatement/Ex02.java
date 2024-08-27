@@ -6,7 +6,6 @@ public class Ex02 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-
         Employee[] employees = new Employee[4];
 
         for (int i = 0; i < employees.length; i++) {
