@@ -1,4 +1,4 @@
-package secondsemester.activitystatement;
+package secondsemester.fixationexercises;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package secondsemester;
+package secondsemester.activitystatement;
 
 import java.util.Scanner;
 
