@@ -45,7 +45,7 @@ public class Ex08 {
 
 
         double porcentagemMenosDe21 = ((double) motoristasMenosDe21 / totalMotoristas) * 100;
-        System.out.printf("\nPorcentagem de motoristas com menos de 21 anos: %.2f%%\n", porcentagemMenosDe21);
+        System.out.print("\nPorcentagem de motoristas com menos de 21 anos: %.2f%%\n"+ porcentagemMenosDe21);
         System.out.println("Número de mulheres da capital: " + mulheresCapital);
 
         System.out.println("Número de motoristas do interior com idade maior que 60 anos: " + motoristasInteriorMaior60);
